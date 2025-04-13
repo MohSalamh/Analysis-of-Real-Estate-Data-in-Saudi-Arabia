@@ -1,4 +1,4 @@
-# Analysis-of-Real-Estate-Data-in-Saudi-Arabia
+# **Analysis of Real Estate Data in Saudi Arabia**
 
 This project focuses on analyzing and exploring the trends in real estate listing in Saudi Arabia using data from Aqar App. We focus on identifying most popular cities, property categories, transactions types, analyzing data distributions, scatter plots and correlation matrices. Any future addition to the project will be updated to this repository. 
 
