@@ -10,6 +10,8 @@ The Data Source can be found below:
 
 ## **Files in the Repository**
 * **EDA_RealEstate_SA.ipynb**: Jupyter Notebook containing the full analysis, including code, visualizations, and insights.
+* **sa_cities.csv**: The dataset used to map City names from Arabic to English
+* **sa_districts.csv**: The dataset used to map District names from Arabic to English
 * **README.md**: Overview of the project.
 
 ## **Usage**
