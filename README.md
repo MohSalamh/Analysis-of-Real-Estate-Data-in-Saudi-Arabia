@@ -3,7 +3,7 @@
 This project focuses on analyzing and exploring the trends in real estate listing in Saudi Arabia using data from Aqar App. We focus on identifying most popular cities, property categories, transactions types, analyzing data distributions, scatter plots and correlation matrices. Any future addition to the project will be updated to this repository. 
 
 ## **Project Overview**
-The Data Source can be found below:
+The Data Source can be found below:<br>
 [Saudi Arabia Real Estate Dataset](https://www.kaggle.com/datasets/mohdph/saudi-arabia-real-estate-dataset/data)
 
 **The content** of the the dataset is explained in the data source link above.
